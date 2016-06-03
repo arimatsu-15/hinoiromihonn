@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>network 色見本in首都大.kmz</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>bf252624</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>bf656865</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>bf5095ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>bfe7f3ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>bf96b7d4</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff19ff5c</color>
+			<width>99</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff767676</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>bfe7f3ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff959595</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff19ff5c</color>
+			<width>99</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>bf8197ee</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>bf90c4f1</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>bf90c4f1</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff4b55bc</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff45a3bc</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ffe6eeee</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>fffffaff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bff9fffd</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>fffffaff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bffdfc1a</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin000">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>fffffaff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bff9fffd</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff959595</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>bf6897ad</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff4b55bc</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ffe6eeee</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>bf8197ee</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>bf252624</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>bf5095ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>bf6897ad</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>bf96b7d4</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>bf60ee71</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>fffffaff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bffdfc1a</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>bf656865</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff45a3bc</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff767676</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>bf60ee71</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>network 色見本in首都大</name>
+		<GroundOverlay>
+			<name>無題 - イメージ オーバーレイ</name>
+			<Icon>
+				<href>files/IMG_6505.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<altitude>119.75</altitude>
+			<altitudeMode>absolute</altitudeMode>
+			<LatLonBox>
+				<north>35.66175103358576</north>
+				<south>35.66170521890015</south>
+				<east>139.3669929125678</east>
+				<west>139.3669327772574</west>
+				<rotation>-22.01269907223769</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>無題 - イメージ オーバーレイ</name>
+			<Icon>
+				<href>files/IMG_6504.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<altitude>119.5</altitude>
+			<altitudeMode>absolute</altitudeMode>
+			<LatLonBox>
+				<north>35.66171930855344</north>
+				<south>35.66168468860553</south>
+				<east>139.3671902860452</east>
+				<west>139.367143375883</west>
+				<rotation>-4.041170641784078</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>無題 - イメージ オーバーレイ</name>
+			<Icon>
+				<href>files/IMG_6503.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<altitude>119.42</altitude>
+			<altitudeMode>absolute</altitudeMode>
+			<LatLonBox>
+				<north>35.6616286517123</north>
+				<south>35.66158689645703</south>
+				<east>139.3672178921306</east>
+				<west>139.3671705079212</west>
+				<rotation>-3.119977265452345</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>無題 - イメージ オーバーレイ</name>
+			<Icon>
+				<href>files/IMG_6491.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<altitude>120</altitude>
+			<altitudeMode>absolute</altitudeMode>
+			<LatLonBox>
+				<north>35.66108404894368</north>
+				<south>35.66100356458169</south>
+				<east>139.3668228593114</east>
+				<west>139.3667466088118</west>
+				<rotation>-14.25267356182879</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>無題 - イメージ オーバーレイ</name>
+			<Icon>
+				<href>files/IMG_6515.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<altitude>120.05</altitude>
+			<altitudeMode>absolute</altitudeMode>
+			<LatLonBox>
+				<north>35.66164028382338</north>
+				<south>35.66158722173918</south>
+				<east>139.3661611237576</east>
+				<west>139.366119659848</west>
+				<rotation>37.25538294105044</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<Placemark>
+			<name>新しくできたタイル</name>
+			<description>珊瑚色</description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							139.3670014174867,35.66174040582588,4.999999999999999 139.3669462217908,35.66175859572147,4.999999999999999 139.366924925761,35.66171647815617,4.999999999999999 139.3669800103669,35.66169743207391,4.999999999999999 139.3670014174867,35.66174040582588,4.999999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>石</name>
+			<description>生成り色</description>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							139.3661772628073,35.66160154886498,4.999999999999999 139.3661356147087,35.66164609965917,4.999999999999999 139.3661047322244,35.66162373175046,4.999999999999999 139.3661417341048,35.66158248024001,4.999999999999999 139.3661772628073,35.66160154886498,4.999999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>色焼けたタイル</name>
+			<description>クリームイエロー</description>
+			<styleUrl>#msn_ylw-pushpin9</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							139.3671917901609,35.66171682734014,4.999999999999999 139.3671457002998,35.66172086106008,4.999999999999999 139.3671423471144,35.66168632804288,4.999999999999999 139.3671883563397,35.66168351102303,4.999999999999999 139.3671917901609,35.66171682734014,4.999999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>事務室前　床</name>
+			<description>チャコールグレイ</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							139.3672102952752,35.66156530326847,4.83 139.3672143510472,35.6615213379952,4.83 139.3672702403809,35.66152425227892,4.83 139.3672663868996,35.66156814898265,4.83 139.3672102952752,35.66156530326847,4.83 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>スロープ　注意</name>
+			<description>刈安色</description>
+			<styleUrl>#msn_ylw-pushpin9</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							139.367169094642,35.66158812188762,4.999999999999999 139.3672167485032,35.66158628243951,4.999999999999999 139.367219241724,35.66162691961278,4.999999999999999 139.3671719050703,35.66162988380341,4.999999999999999 139.367169094642,35.66158812188762,4.999999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Folder>
+			<name>保留</name>
+			<Placemark>
+				<name>学生会館前のタイル</name>
+				<description>シルバーグレイ</description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								139.3666300076874,35.66054833690588,4.999999999999999 139.3666328929099,35.66048113665448,4.999999999999999 139.3666996996662,35.66048368858155,4.999999999999999 139.3666980705156,35.66054244407766,4.999999999999999 139.3666300076874,35.66054833690588,4.999999999999999 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<GroundOverlay>
+				<name>無題 - イメージ オーバーレイ</name>
+				<Icon>
+					<href>files/IMG_6488.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<altitude>120</altitude>
+				<altitudeMode>absolute</altitudeMode>
+				<LatLonBox>
+					<north>35.66054852090963</north>
+					<south>35.66048166641296</south>
+					<east>139.3667012906006</east>
+					<west>139.3666304085515</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<Placemark>
+				<name>新しい通路</name>
+				<description>サーモンピンク</description>
+				<styleUrl>#msn_ylw-pushpin12</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								139.3667137940043,35.6606361577714,4.999999999999999 139.3667734415638,35.66063099807688,4.999999999999999 139.3667791157525,35.66070914719557,4.999999999999999 139.366721624941,35.66071159562177,4.999999999999999 139.3667137940043,35.6606361577714,4.999999999999999 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>芝生</name>
+				<description>常磐色</description>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<tessellate>1</tessellate>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								139.366759585191,35.66109247573714,4.8 139.3667355983958,35.66101240953538,4.8 139.36680917128,35.66099747627219,4.8 139.366832541826,35.66107650956558,4.8 139.366759585191,35.66109247573714,4.8 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>アスファルト</name>
+				<description>銀鼠</description>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								139.3667452454571,35.6603225313233,5.5 139.3667317682543,35.66024534253707,5.5 139.3667970076368,35.660239754495,5.5 139.366809842117,35.66031593666525,5.5 139.3667452454571,35.6603225313233,5.5 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>ピロティ</name>
+				<description>チャイニーズレッド</description>
+				<styleUrl>#msn_ylw-pushpin10</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<tessellate>1</tessellate>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								139.3674087153167,35.66072636717398,5.65 139.3673844453618,35.66069160047155,5.65 139.367411122899,35.6606800101382,5.65 139.3674371570713,35.66071253495718,5.65 139.3674087153167,35.66072636717398,5.65 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>体育館床</name>
+				<description>ベージュ</description>
+				<styleUrl>#msn_ylw-pushpin7</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								139.3673840067411,35.66053184349535,4.999999999999999 139.3673425342203,35.66053558251707,4.999999999999999 139.367336186201,35.66047818127832,4.999999999999999 139.367378939385,35.66047641380259,4.999999999999999 139.3673840067411,35.66053184349535,4.999999999999999 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>マンホール</name>
+				<description>タン</description>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								139.3674192323643,35.66096303422776,4.999999999999999 139.3673584848125,35.66096382036004,4.999999999999999 139.3673561031358,35.66092417006588,4.999999999999999 139.3674162815039,35.66092326596029,4.999999999999999 139.3674192323643,35.66096303422776,4.999999999999999 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>大理石</name>
+				<description>エクルベイジュ</description>
+				<styleUrl>#msn_ylw-pushpin6</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								139.3675392809646,35.66096610840199,4.999999999999999 139.3675337480374,35.66092303805757,4.999999999999999 139.3675824887381,35.6609195090453,4.999999999999999 139.3675878518769,35.66096343601573,4.999999999999999 139.3675392809646,35.66096610840199,4.999999999999999 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>大理石２</name>
+				<description>カーキー</description>
+				<styleUrl>#msn_ylw-pushpin11</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								139.3674789021762,35.66095321313441,4.999999999999999 139.3674880858104,35.66091793169398,4.999999999999999 139.3675207046662,35.66092163980081,4.999999999999999 139.3675146330156,35.66095730414732,4.999999999999999 139.3674789021762,35.66095321313441,4.999999999999999 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>２号館前</name>
+				<description>ストレートグレイ</description>
+				<styleUrl>#msn_ylw-pushpin5</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								139.3676762500357,35.66117005112321,4.8 139.367697076512,35.66112758451062,4.8 139.3677585569562,35.66114742090107,4.8 139.3677355374768,35.66119142610131,4.8 139.3676762500357,35.66117005112321,4.8 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<GroundOverlay>
+				<name>無題 - イメージ オーバーレイ</name>
+				<Icon>
+					<href>files/IMG_6489.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<altitude>120</altitude>
+				<altitudeMode>absolute</altitudeMode>
+				<LatLonBox>
+					<north>35.66071067066497</north>
+					<south>35.66063265649314</south>
+					<east>139.3667774463737</east>
+					<west>139.3667176626094</west>
+					<rotation>-4.347502918511857</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>無題 - イメージ オーバーレイ</name>
+				<Icon>
+					<href>files/IMG_6500.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<altitude>120</altitude>
+				<altitudeMode>absolute</altitudeMode>
+				<LatLonBox>
+					<north>35.66032151207993</north>
+					<south>35.6602407773753</south>
+					<east>139.3668052006914</east>
+					<west>139.3667384601502</west>
+					<rotation>-6.795845698205458</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>無題 - イメージ オーバーレイ12</name>
+				<Icon>
+					<href>files/IMG_6494.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<altitude>120</altitude>
+				<altitudeMode>absolute</altitudeMode>
+				<LatLonBox>
+					<north>35.66072222222222</north>
+					<south>35.66068333333333</south>
+					<east>139.367425</east>
+					<west>139.3673944444444</west>
+					<rotation>-29.6424</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>無題 - イメージ オーバーレイ</name>
+				<Icon>
+					<href>files/IMG_6496.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<altitude>119.6</altitude>
+				<altitudeMode>absolute</altitudeMode>
+				<LatLonBox>
+					<north>35.66053480867252</north>
+					<south>35.66047575036043</south>
+					<east>139.3673812797218</east>
+					<west>139.3673396054056</west>
+					<rotation>-4.425812318006522</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>無題 - イメージ オーバーレイ12</name>
+				<Icon>
+					<href>files/IMG_6497.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<altitude>119.23</altitude>
+				<altitudeMode>absolute</altitudeMode>
+				<LatLonBox>
+					<north>35.66096314856082</north>
+					<south>35.66092341140214</south>
+					<east>139.3674164630204</east>
+					<west>139.3673555470579</west>
+					<rotation>-2.303076608878477</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>無題 - イメージ オーバーレイ12</name>
+				<Icon>
+					<href>files/IMG_6499.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<altitude>119.3</altitude>
+				<altitudeMode>absolute</altitudeMode>
+				<LatLonBox>
+					<north>35.66096515335474</north>
+					<south>35.66092057079042</south>
+					<east>139.3675861920933</east>
+					<west>139.367539079646</west>
+					<rotation>-5.183100150721577</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>無題 - イメージ オーバーレイ</name>
+				<Icon>
+					<href>files/IMG_6500.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<altitude>119.3</altitude>
+				<altitudeMode>absolute</altitudeMode>
+				<LatLonBox>
+					<north>35.66095554629916</north>
+					<south>35.66091927666196</south>
+					<east>139.3675178197348</east>
+					<west>139.3674830007804</west>
+					<rotation>9.768365796222986</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>無題 - イメージ オーバーレイ</name>
+				<Icon>
+					<href>files/IMG_6501.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<altitude>119</altitude>
+				<altitudeMode>absolute</altitudeMode>
+				<LatLonBox>
+					<north>35.66118282649612</north>
+					<south>35.66113549478471</south>
+					<east>139.3677493669298</east>
+					<west>139.3676837279863</west>
+					<rotation>23.11373410418021</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>無題 - イメージ オーバーレイ</name>
+				<Icon>
+					<href>files/IMG_6502.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<altitude>119.35</altitude>
+				<altitudeMode>absolute</altitudeMode>
+				<LatLonBox>
+					<north>35.66156682012981</north>
+					<south>35.66152250585681</south>
+					<east>139.3672692273778</east>
+					<west>139.367212648151</west>
+					<rotation>4.333318750039856</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+		<GroundOverlay>
+			<name>無題 - イメージ オーバーレイ</name>
+			<Icon>
+				<href>files/IMG_6508.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<altitude>118</altitude>
+			<altitudeMode>absolute</altitudeMode>
+			<LatLonBox>
+				<north>35.66180239052535</north>
+				<south>35.6617634842181</south>
+				<east>139.3668373664648</east>
+				<west>139.3667932993256</west>
+				<rotation>124.4804844914275</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<Placemark>
+			<name>白線</name>
+			<description>アイボリー</description>
+			<styleUrl>#msn_ylw-pushpin30</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							139.3668086546867,35.66175744517721,3 139.3668474909768,35.66177950882359,3 139.3668223122492,35.66180910589749,3 139.3667819754269,35.66178717548119,3 139.3668086546867,35.66175744517721,3 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<GroundOverlay>
+			<name>無題 - イメージ オーバーレイ</name>
+			<Icon>
+				<href>files/IMG_6507.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<altitude>120</altitude>
+			<altitudeMode>absolute</altitudeMode>
+			<LatLonBox>
+				<north>35.66184444444444</north>
+				<south>35.66179444444445</south>
+				<east>139.3668194444444</east>
+				<west>139.3667444444445</west>
+				<rotation>35</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<Placemark>
+			<name>車椅子用駐車場タイル</name>
+			<description>新橋色</description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							139.3667321161971,35.66182213328126,4.95 139.3667685812289,35.66178147264402,4.95 139.3668300605353,35.66181582918641,4.95 139.3667953155879,35.66185807067336,4.95 139.3667321161971,35.66182213328126,4.95 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>無題 - パス</name>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					139.3661732720403,35.66154797216287,0 139.3661978210448,35.6615216509739,0 139.3662120929315,35.66150827833905,0 139.3662316912038,35.66148629815433,0 139.3662496113731,35.66147324041444,0 139.3662673608521,35.66146039977983,0 139.3662810708834,35.66144772350704,0 139.3662980040003,35.661439147718,0 139.3663109555152,35.66143069141387,0 139.3663277590865,35.66142218500077,0 139.3663444951454,35.66141371310704,0 139.36636116364,35.66140527518537,0 139.3663744021703,35.66139293721432,0 139.3663876419597,35.66138043624509,0 139.3664042368501,35.66137169028468,0 139.3664173467757,35.66135921080259,0 139.3664337188716,35.6613507545669,0 139.3664495719926,35.66134630119137,0 139.3664661721301,35.66133422405746,0 139.3664861370749,35.66132585614711,0 139.3665064071229,35.66131361246883,0 139.3665224826342,35.66130507947296,0 139.3665388246076,35.66129275945617,0 139.3665549292312,35.66128098167874,0 139.3665710592069,35.66126886108288,0 139.366587073957,35.66125682472598,0 139.3665992468607,35.66124495309864,0 139.3666151025471,35.66123291966422,0 139.3666271055583,35.6612211880783,0 139.3666462122114,35.66121304084797,0 139.3666616996586,35.66120157953935,0 139.3666738456656,35.66118807787977,0 139.3666889757586,35.66118027610999,0 139.3667004955894,35.66116925328301,0 139.3667083000693,35.66115566351892,0 139.3667196640447,35.66114222594293,0 139.366723826135,35.66112832186394,0 139.3667279941685,35.66111430668499,0 139.3667357331976,35.6611002732449,0 139.3667470000584,35.66108622212187,0 139.3667546028231,35.66107240974512,0 139.3667550232753,35.66105896210962,0 139.3667554403675,35.66104561935452,0 139.366759586988,35.66102567317473,0 139.3667600505486,35.66100951815001,0 139.366760424788,35.66099666422716,0 139.3667606108738,35.66099027380019,0 139.3667610726766,35.66097440167901,0 139.3667617123977,35.66095242916469,0 139.3667627599,35.66092067058137,0 139.3667631801459,35.66090305581733,0 139.3667641800567,35.66088230490317,0 139.3667640451396,35.6608706195407,0 139.366745664096,35.66085505381887,0 139.3667650215783,35.66083564941724,0 139.3667657324821,35.66081478106407,0 139.3667661654955,35.66080040656473,0 139.3667633174849,35.66078627927493,0 139.3667637448127,35.66077223159456,0 139.3667608084642,35.66076130921515,0 139.3667612155813,35.66074762199142,0 139.36674833827,35.66062603833523,0 139.3667382914376,35.66059527979859,0 139.3667279291062,35.6605863585777,0 139.3667237774484,35.66058417362921,0 139.3667092726491,35.66057794228346,0 139.3666988758277,35.66057603752618,0 139.3666906008399,35.66057406374344,0 139.3666846772403,35.66056751010095,0 139.3666830755389,35.66055863371915,0 139.3666813688819,35.66055205632762,0 139.3666778705656,35.66054123423537,0 139.3666767101721,35.66052619181355,0 139.3666770873551,35.66051979843653,0 139.3666755904343,35.66051127362689,0 139.3666743689973,35.66049865948246,0 139.3666748585812,35.66049054867758,0 139.3666734133269,35.66048224049068,0 139.3666725998318,35.66046420260469,0 139.3666733297758,35.66045257931214,0 139.3666736906771,35.6604468312571,0 139.3666746405627,35.66043170612795,0 139.3666753614603,35.66042041121104,0 139.3666763018853,35.6604066863531,0 139.3666768373177,35.66039891746943,0 139.3666797093179,35.6603848346279,0 139.3666823636757,35.66037211346271,0 139.3666846368959,35.66036496820758,0 139.3666888827057,35.66035354939745,0 139.3666947618099,35.66034507358263,0 139.366702039952,35.66034337256414,0 139.3667160096116,35.66032496324499,0 139.366717324911,35.66031864454015,0 139.3667219427145,35.66028599436592,0 139.3667230623935,35.66027807627957,0 139.3667257958987,35.66027019537063,0 139.3667302544967,35.66026425899236,0 139.3667364350312,35.66026021461494,0 139.3667445103126,35.66025992423066,0 139.3667509704861,35.66025969181892,0 139.3667574307628,35.66025945955287,0 139.3667637016457,35.66025733149591,0 139.3667701521784,35.66025709960938,0 139.366778215635,35.66025680960569,0 139.3667846663357,35.6602565777197,0 139.3667911171009,35.66025634564261,0 139.3668024058495,35.66025593984399,0 139.3668118211777,35.66025370425946,0 139.3668198734039,35.66025341530548,0 139.3668279237174,35.66025312523334,0 139.366834364971,35.66025289363808,0 139.3668440266446,35.66025254618468,0 139.3668488575589,35.66025237245572,0 139.3668585192582,35.66025202505116,0 139.3668649605117,35.66025179341611,0 139.366873011988,35.66025150389156,0 139.3668794531379,35.66025127226297,0 139.3668875045753,35.66025098274469,0 139.3668939459966,35.66025075122585,0 139.3669019974339,35.66025046174475,0 139.3669116591069,35.6602501142603,0 139.3669213208315,35.66024976689019,0 139.3669362578094,35.66025112670411,0 139.3669459338267,35.66025077871369,0 139.3670817683239,35.66025161765878,0 139.367089598904,35.66025518101267,0 139.3670967860282,35.66025685405514,0 139.3671032946557,35.66025661984449,0 139.367111376205,35.66025622821745,0 139.367116112054,35.66025578879492,0 139.3671247839546,35.6602570638044,0 139.367135054319,35.66025819456353,0 139.3671404998551,35.66025957882263,0 139.3671487319287,35.66025941672172,0 139.3671594615951,35.66026124384247,0 139.3671644865588,35.66026126824956,0 139.3671745359954,35.66026130191654,0 139.3671829146915,35.66026132724381,0 139.3671887053061,35.66026315910693,0 139.3671977516598,35.66026480597661,0 139.3672049385612,35.6602661415729,0 139.3672121411641,35.66026748006838,0 139.3672193592358,35.66026882143143,0 139.3672271525026,35.66027161611197,0 139.3672342615835,35.66027274814799,0 139.3672442539289,35.66027622772134,0 139.3673778373181,35.66055922953336,0 139.3673783748216,35.66056525732682,0 139.3673872053411,35.66058005386573,0 139.3673883263458,35.66060677997918,0 139.3674001641812,35.66064567720524,0 139.3674008119401,35.66067336915327,0 139.3674473632659,35.66074931160674,0 139.3674513769954,35.66075770683636,0 139.3673482208723,35.66086987974468,0 139.3673423931006,35.66088382240241,0 139.3673479781337,35.66091374303997,0 139.3673416895494,35.66094051134191,0 139.3674464040414,35.66093384443897,0 139.3676252828218,35.66097279646531,0 139.3677476567076,35.66106642267962,0 139.3677495463791,35.66107358852769,0 139.367751224577,35.66107868546975,0 139.3677532547017,35.66108621103258,0 139.3677551565276,35.66109342136156,0 139.3677508784921,35.66109770988708,0 139.3677456827421,35.66110351236307,0 139.3677416171226,35.66110845256802,0 139.3677386575545,35.66111396551569,0 139.3677357236252,35.6611195856312,0 139.3677327815024,35.66112522119319,0 139.3677298313154,35.66113087221747,0 139.367726873762,35.66113654055771,0 139.3677228379019,35.66114337639894,0 139.367718773766,35.66115018648834,0 139.3677123849798,35.66115735781305,0 139.3677081107678,35.66116215526743,0 139.3677038246661,35.66116696634082,0 139.3676995264683,35.66117179080698,0 139.367694136898,35.66117784045264,0 139.3676865596459,35.66118634566707,0 139.3676809274986,35.66119026261509,0 139.3676752737179,35.66119416453331,0 139.3676695879784,35.66119798983019,0 139.3676638868022,35.66120181678969,0 139.3676581712939,35.66120565234772,0 139.3676559651577,35.66120812007236,0 139.367179453735,35.66164106380595,0 139.3671279964834,35.66170216454808,0 139.3670067036674,35.66168667187299,0 139.3668877952059,35.66185983250494,0 139.3668855161121,35.66186324165966,0 139.3668807123265,35.66187127821249,0 139.3668726262688,35.66187997247668,0 139.3668668264639,35.66188525395489,0 139.3668650623677,35.66188619696317,0 139.3668582677469,35.66188874183798,0 139.3668542551817,35.66189306074168,0 139.3668385039477,35.66190147738113,0 139.3668312881055,35.6619064146631,0 139.366829549699,35.66190734354647,0 139.3668193473604,35.66191162502331,0 139.3668158581023,35.66191342409238,0 139.3668030204067,35.66191589284821,0 139.3667951983251,35.66191689541532,0 139.3667893668141,35.66191579890194,0 139.3667835476703,35.66191470088322,0 139.3667747678262,35.66191289558118,0 139.3667662471898,35.66190984212346,0 139.3667613941943,35.66190381853756,0 139.3667577842591,35.66189588246598,0 139.3667552321472,35.66188740789057,0 139.3667560550713,35.6618824130933,0 139.3667573770898,35.66187848206069,0 139.3667599808219,35.66187374765365,0 139.366762611622,35.66186058605079,0 139.3667650661178,35.66185034702438,0 139.3667667445528,35.66184196285981,0 139.3667686815092,35.66183241524966,0 139.3667696475706,35.66182763839502,0 139.3667723068912,35.66182193113956,0 139.3667752116294,35.66181502756145,0 139.3667778750587,35.66180931186231,0 139.3667807838214,35.66180239904586,0 139.3667832072533,35.66179786835564,0 139.3667858762423,35.66179214066717,0 139.3667895225695,35.66178163126766,0 139.3667953502851,35.66177516749215,0 139.3668004570982,35.66177228075184,0 139.3668055747144,35.66176938785428,0 139.3668026506874,35.66176892240223,0 139.3667953588799,35.66176776168724,0 139.3667948793784,35.66176275077471,0 139.3667960991409,35.66175677662612,0 139.3667987754049,35.66175102836245,0 139.3668002398418,35.66174385698861,0 139.366801460056,35.66173788081919,0 139.366802893497,35.66173069302646,0 139.3668027898372,35.66172194226866,0 139.3668043939494,35.66171615299001,0 139.366803911695,35.66171116203267,0 139.3668031913895,35.66169999709614,0 139.3667985902593,35.66169320867463,0 139.3667923104792,35.6616874270725,0 139.3667891841431,35.66168087758646,0 139.3667858219656,35.6616755291934,0 139.3667827090186,35.66166900596149,0 139.3667807987543,35.66166387466512,0 139.3667788910102,35.66165875044143,0 139.3667755513523,35.66165344392128,0 139.3667736506065,35.66164833594791,0 139.3667679465448,35.66164031810939,0 139.3667632050461,35.66163486691092,0 139.3667603582833,35.66163450254139,0 139.3667551567894,35.66163142294069,0 139.366750449418,35.6616260029335,0 139.3667455155641,35.66162177079231,0 139.3667408345761,35.66161637912091,0 139.3667373322511,35.66161234500918,0 139.3667301110235,35.66160546962163,0 139.3667245523406,35.66159762475728,0 139.3667199209006,35.66159230549347,0 139.3667166821323,35.66158717401001,0 139.3667120653236,35.66158189467399,0 139.3667068061956,35.66157298150014,0 139.3667036116771,35.66156788058081,0 139.3666981060931,35.66156725692205,0 139.3666892134681,35.66156271070808,0 139.3666814905689,35.66155948861658,0 139.3666765159194,35.6615565818383,0 139.3666699651623,35.66155468016449,0 139.3666650212311,35.66155178868889,0 139.3666587432884,35.6615487571168,0 139.3666511453297,35.66154556911344,0 139.3666433417307,35.6615435161434,0 139.3666368990232,35.66154163886443,0 139.3666344674295,35.66154021250225,0 139.3666269606302,35.66153707975288,0 139.3666245422828,35.66153566028429,0 139.3666219617483,35.66152843645404,0 139.3665825726515,35.66148746528553,0 139.3665720294357,35.66148569236066,0 139.366565295293,35.66148320419837,0 139.36655657273,35.66148174030972,0 139.3665461502431,35.66147998996951,0 139.3665375019744,35.66147853914504,0 139.3665271673155,35.66147680424137,0 139.3665166149729,35.66147637357376,0 139.3665149053342,35.66147608837676,0 139.3665042829627,35.66147560269489,0 139.3664894072332,35.66147594799173,0 139.3664787003887,35.66147865256001,0 139.3664610707564,35.66148294016244,0 139.3664533580107,35.66148691321419,0 139.3664442713544,35.66148930844222,0 139.3664300115977,35.66149210328437,0 139.366417474518,35.66149517029609,0 139.3663977215713,35.66150086060067,0 139.3663834803088,35.66150485482805,0 139.3663797402999,35.66150679490666,0 139.366370157931,35.66151289055598,0 139.3663608670502,35.66151770752172,0 139.3663547969658,35.66152309745922,0 139.3663471505657,35.66152817825006,0 139.3663366163616,35.66153139834932,0 139.3663292795126,35.66153520074585,0 139.3663248558851,35.66154083771064,0 139.366317552828,35.66154461794108,0 139.3663084537667,35.66154932754907,0 139.3663040627672,35.66155493132816,0 139.3662981217366,35.66156022116075,0 139.3662924465992,35.66156426059616,0 139.366286531303,35.66156952861012,0 139.3662788325823,35.66157571084554,0 139.3662747389858,35.66158003005245,0 139.3662673258972,35.66158495052343,0 139.3662617173673,35.6615889394275,0 139.3662563725153,35.66159168945922,0 139.3662495147012,35.6615941177343,0 139.3662441964565,35.6615968549883,0 139.3662391400422,35.66159836039012,0 139.3662308200973,35.66160045401463,0 139.3662252935149,35.66160439591298,0 139.3662200282718,35.66160710822201,0 139.3662159880197,35.66161128206767,0 139.3662104115722,35.66161504120024,0 139.3661993895534,35.66160881339143,0 139.3661947798369,35.66161345645364,0 139.3661906643938,35.6616176799568,0 139.3661840942654,35.66162198665064,0 139.3661761988209,35.66162274952541,0 139.3661701234138,35.66162281312599,0 139.3661640537832,35.66162285722375,0 139.3661577408033,35.66162407636843,0 139.366151907052,35.66162280918731,0 139.3661402864708,35.66162027977081,0 139.366134498364,35.66161901359796,0 139.3661289708079,35.66161655497785,0 139.3661301918874,35.66161057455604,0 139.3661357431811,35.66160552675316,0 139.3661439598638,35.66160228792243,0 139.3661478429977,35.66159810831601,0 139.3661531880154,35.66159423010982,0 139.366158789473,35.66158914155356,0 139.366162694264,35.66158494071799,0 139.366166604534,35.66158073420937,0 139.3661690537852,35.66157621875415,0 139.3661702836357,35.66157019403273,0 139.3661715138608,35.66156416897451,0 139.3661724981519,35.66155934885635,0 139.3661734823007,35.66155452884342,0 139.3661759349753,35.66155000225274,0 139.3661766734098,35.66154638585375,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
